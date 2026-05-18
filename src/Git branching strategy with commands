@@ -1,0 +1,21 @@
+Common Branches:-
+main - Stable project code
+feature - New feature development
+bugfix - Fix bugs
+develop - Testing and integration branch
+
+Git Commands:-
+1. Check Branches
+git branch
+
+2. Create New Branch
+git branch feature1
+
+3. Switch Branch
+git checkout feature1
+
+4. Add Changes
+git add .
+
+5. Delete Branch
+git branch -d feature1
