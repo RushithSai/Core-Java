@@ -1,4 +1,4 @@
-import java.util.*;
+/*import java.util.*;
 public class student {
     public String Name;
     int marks;
@@ -17,6 +17,7 @@ public class student {
         s.Display();
     }
 }
+ */
 /*
 Class name should start with uppercase (student)
 Variable Name should start with lowercase
